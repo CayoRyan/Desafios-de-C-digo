@@ -10,3 +10,4 @@ Desafie-se com uma coleção de problemas de codificação neste repositório. A
 
 Sinta-se à vontade para explorar e contribuir com novos desafios!
 
+ATIVIDADE FEITA EM PYTHON
